@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be9b88&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=120&section=header"/>
 
 ###
 
-<h2 align="center">🌟 Welcome to My GitHub!</h2>
+<h2 align="center"> Welcome to My GitHub!</h2>
 
 ###
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C1B6&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCB6D0&width=435&lines=Aspiring+Front-end+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>  
   </a>
 
   <h3 align="left">💜 Olá, eu sou a Rayane Tarquinio!</h3>
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left"> Status 📚 </h3>
+
 
 
 
@@ -74,4 +74,4 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="15"> Thanks for visiting. 👨‍💻 Enjoy it! 
 </h6>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab8977&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=120&section=footer"/>
